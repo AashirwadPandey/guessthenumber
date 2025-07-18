@@ -6,6 +6,14 @@ Welcome to **Guess the Number**, a sleek and modern number guessing game designe
 
 ---
 
+## 💻 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
 ## 🕹️ Features
 
 ### 🌌 Dark Themed Interface
@@ -55,7 +63,8 @@ Welcome to **Guess the Number**, a sleek and modern number guessing game designe
 
 ## 📸 Screenshots
 
-> _Add screenshots here if available to showcase UI and animations_
+> <img width="1280" height="1147" alt="gtn" src="https://github.com/user-attachments/assets/a534a21d-b7b3-4c9f-9467-e4166775b0ed" />
+
 
 ---
 
