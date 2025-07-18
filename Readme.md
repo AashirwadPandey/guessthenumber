@@ -6,6 +6,22 @@ Welcome to **Guess the Number**, a sleek and modern number guessing game designe
 
 ---
 
+## 🔗 Live Demo
+
+👉 [**Live Demo**](https://tictactoe-theta-ivory.vercel.app/tictactoe.html)  
+
+---
+
+## 💻 Deploy This Project
+
+You can deploy the calculator to your own environment using one of the platforms below:
+
+[![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy-GitHub_Pages-222?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/pages)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start)
+
+---
+
 ## 💻 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
