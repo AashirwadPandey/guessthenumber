@@ -8,7 +8,7 @@ Welcome to **Guess the Number**, a sleek and modern number guessing game designe
 
 ## 🔗 Live Demo
 
-👉 [**Live Demo**](https://tictactoe-theta-ivory.vercel.app/tictactoe.html)  
+👉 [**Live Demo**](https://guessthenumber-zeta.vercel.app/guessthedamnnumber.html)  
 
 ---
 
